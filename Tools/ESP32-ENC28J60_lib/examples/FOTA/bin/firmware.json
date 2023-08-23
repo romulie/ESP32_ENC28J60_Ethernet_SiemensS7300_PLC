@@ -1,0 +1,8 @@
+{
+    "type": "esp32-fota-http",
+    "version": "1.1",
+    "host": "github.com",
+    "port": 443,
+    "bin": "/tobozo/ESP32-ENC28J60/blob/main/examples/FOTA/bin/firmware.bin?raw=true"
+}
+
